@@ -8,6 +8,19 @@ If the packet is lenght is 8 bytes long this is a ping packet
 
 Otherwise the next Short (2 bytes) is the packet comamnd
 
+All datatypes uses Big endean. Except when stated otherwise.
+
+A byte array gets the length from first reading a short to get the length.
+Example.
+
+|Length|Data|Explenation|
+|--|--|--|
+|0006|4D 49 48 41 49 00|This array is 6 bytes long|
+|000B|43 6F 69 6E 73 20 32 35 30 67 00|This array is 11 bytes long|
+
+Strigns are made from byte arrays.
+Strings have an `\0` ending except said otherwise.
+
 ## Commands
 
 ### Client Server
@@ -15,7 +28,7 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 | ID |Name|
 |----|----|
 |1|[CMD_CM_SAY](./client/say.md)|
-|6|[CMD_CM_BEGINACTION]()|
+|6|[CMD_CM_BEGINACTION](./Shared/action.md)|
 |7|CMD_CM_ENDACTION|
 |8|CMD_CM_SYNATTR|
 |9|CMD_CM_SYNSKILLBAG|
