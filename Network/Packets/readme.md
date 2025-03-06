@@ -10,6 +10,8 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 
 ## Commands
 
+### Client Server
+
 | ID |Name|
 |----|----|
 |1|[CMD_CM_SAY](./client/say.md)|
@@ -149,6 +151,11 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 |435|CMD_CM_NEWCHA|
 |436|CMD_CM_DELCHA|
 |437|CMD_CM_CANCELEXIT|
+
+### Server Client
+
+|ID|Name|
+|--|--|
 |501|[CMD_MC_SAY](./server/say.md)|
 |503|CMD_MC_MAPCRASH|
 |504|CMD_MC_CHABEGINSEE|
@@ -336,6 +343,11 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 |940|[CMD_MC_CHAPSTR](./server/Chapstr.md)|
 |941|CMD_MC_CREATE_PASSWORD2|
 |942|CMD_MC_UPDATE_PASSWORD2|
+
+## Other
+
+|ID|Name|
+|--|--|
 |1003|CMD_TM_ENTERMAP|
 |1004|CMD_TM_GOOUTMAP|
 |1005|CMD_TM_LOGIN_ACK|
@@ -423,6 +435,9 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 |4510|CMD_PM_SAY2TRADE|
 |4511|CMD_PM_EXPSCALE|
 |4512|CMD_PM_GUILD_INVITE|
+
+|ID|Name|
+|--|--|
 |5001|CMD_PC_TEAM_INVITE|
 |5002|CMD_PC_TEAM_REFRESH|
 |5003|CMD_PC_TEAM_CANCEL|
@@ -476,6 +491,10 @@ Otherwise the next Short (2 bytes) is the packet comamnd
 |5522|CMD_MP_GM1SAY1|
 |5523|CMD_MP_GM1SAY|
 |5524|CMD_MP_GMBANACCOUNT|
+
+
+|ID|Name|
+|--|--|
 |6001|CMD_CP_TEAM_INVITE|
 |6002|CMD_CP_TEAM_ACCEPT|
 |6003|CMD_CP_TEAM_REFUSE|
