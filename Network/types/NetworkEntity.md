@@ -21,10 +21,10 @@
 |StallName|string|
 ||short|
 |State|short|
-|Position|[Position]()|
+|Position|[Position](./position.md)|
 |TeamLeader|int|
 |SideID|byte|
-|Event|[Event]()|
-|Look|[NetworkLook]()|
+|Event|[Event](./event.md)|
+|Look|[NetworkLook](./networkLook.md)|
 |PKControll|byte|
 |Looks|[EntityLook]()[]|
