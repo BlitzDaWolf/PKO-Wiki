@@ -28,7 +28,7 @@ Strings have an `\0` ending except said otherwise.
 | ID |Name|
 |----|----|
 |1|[CMD_CM_SAY](./client/say.md)|
-|6|[CMD_CM_BEGINACTION](./Shared/action.md)|
+|6|[CMD_CM_BEGINACTION](./shared/action.md)|
 |7|CMD_CM_ENDACTION|
 |8|CMD_CM_SYNATTR|
 |9|CMD_CM_SYNSKILLBAG|
@@ -175,7 +175,7 @@ Strings have an `\0` ending except said otherwise.
 |505|CMD_MC_CHAENDSEE|
 |506|CMD_MC_ITEMBEGINSEE|
 |507|CMD_MC_ITEMENDSEE|
-|508|CMD_MC_NOTIACTION|
+|508|[CMD_MC_NOTIACTION](./shared/action.md)|
 |509|CMD_MC_SYNATTR|
 |510|CMD_MC_SYNSKILLBAG|
 |511|CMD_MC_SYNASKILLSTATE|
