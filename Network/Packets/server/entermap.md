@@ -13,6 +13,6 @@
 |CanTeam|Boolean|
 ||Byte|
 ||int|
-|MainPlayer|[NetworkEntity]()|
+|MainPlayer|[NetworkEntity](./NetworkEntity.md)|
 |Skills|[SkillBag]()|
 |Bagpack|[Bagpack]()|
