@@ -167,21 +167,23 @@ Strings have an `\0` ending except said otherwise.
 
 ### Server Client
 
+6/186 = 3.22%
+
 |ID|Name|
 |--|--|
 |501|[CMD_MC_SAY](./server/say.md)|
 |503|CMD_MC_MAPCRASH|
 |504|CMD_MC_CHABEGINSEE|
-|505|CMD_MC_CHAENDSEE|
+|505|[CMD_MC_CHAENDSEE](./server/chaendsee.md)|
 |506|CMD_MC_ITEMBEGINSEE|
-|507|CMD_MC_ITEMENDSEE|
+|507|[CMD_MC_ITEMENDSEE](./server/item.md###EndSee)|
 |508|[CMD_MC_NOTIACTION](./shared/action.md)|
-|509|CMD_MC_SYNATTR|
+|509|[CMD_MC_SYNATTR](./server/SyncAtribute.md)|
 |510|CMD_MC_SYNSKILLBAG|
 |511|CMD_MC_SYNASKILLSTATE|
 |515|CMD_MC_PING|
 |516|[CMD_MC_ENTERMAP](./server/entermap.md)|
-|517|CMD_MC_SYSINFO|
+|517|[CMD_MC_SYSINFO](./client/say.md)|
 |518|CMD_MC_ALARM|
 |519|CMD_MC_TEAM|
 |520|CMD_MC_FAILEDACTION|
