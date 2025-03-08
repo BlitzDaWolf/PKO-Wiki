@@ -21,7 +21,7 @@ The start of the binary says how big 1 section is
 |[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
 |[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9746;|
 |[itempre](./itempre.md)|0|100|10804|&#9746;|
-|[selectcha](./selectcha.md)|0|4|9780|&#9746;|
+|[selectcha](./selectcha.md)|0|4|9780|&#9745;|
 |[shipinfo](./shipinfo.md)|0|17|8708|&#9746;|
 |[StoneInfo](./StoneInfo.md)|0|44|8628|&#9746;|
 |[minimapRegions](./minimapRegions.md)|0|41|7876|&#9746;|
