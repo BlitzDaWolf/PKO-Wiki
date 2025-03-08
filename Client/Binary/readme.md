@@ -13,8 +13,8 @@ The start of the binary says how big 1 section is
 |[itemrefineinfo](./itemrefineinfo.md)|0|520|79044|&#9745;|
 |[shipiteminfo](./shipiteminfo.md)|0|212|73780|&#9746;|
 |[skilleff](./skilleff.md)|0|239|63100|&#9745;|
-|[skilleffDetails](./skilleffDetails.md)|0|116|53364|&#9746;|
-|[musicinfo](./musicinfo.md)|0|395|44244|&#9746;|
+|[skilleffDetails](./skilleffDetails.md)|0|116|53364|?|
+|[musicinfo](./musicinfo.md)|0|395|44244|&#|&#;|
 |[hairs](./hairs.md)|0|210|43684|&#9746;|
 |[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|&#9746;|
 |[AreaSet](./AreaSet.md)|0|253|35424|&#9746;|
