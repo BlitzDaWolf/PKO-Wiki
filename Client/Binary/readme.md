@@ -12,7 +12,7 @@ The start of the binary says how big 1 section is
 |[sceneobjinfo](./sceneobjinfo.md)|0|632|174436|&#9745;|
 |[itemrefineinfo](./itemrefineinfo.md)|0|520|79044|&#9745;|
 |[shipiteminfo](./shipiteminfo.md)|0|212|73780|&#9746;|
-|[skilleff](./skilleff.md)|0|239|63100|&#9746;|
+|[skilleff](./skilleff.md)|0|239|63100|&#9745;|
 |[skilleffDetails](./skilleffDetails.md)|0|116|53364|&#9746;|
 |[musicinfo](./musicinfo.md)|0|395|44244|&#9746;|
 |[hairs](./hairs.md)|0|210|43684|&#9746;|
@@ -29,15 +29,11 @@ The start of the binary says how big 1 section is
 |[mapinfo](./mapinfo.md)|0|45|6664|&#9746;|
 |[TerrainInfo](./TerrainInfo.md)|0|52|6244|&#9746;|
 |[itemtype](./itemtype.md)|0|38|4108|&#9746;|
-|[ServerSet_NAGF](./ServerSet_NAGF.md)|0|19|3956|&#9746;|
 |[ElfSkillInfo](./ElfSkillInfo.md)|0|27|3136|&#9746;|
 |[chaticons](./chaticons.md)|0|9|1912|&#9746;|
 |[shadeinfo](./shadeinfo.md)|0|11|1896|&#9746;|
 |[forgeitem](./forgeitem.md)|0|12|1684|&#9746;|
-|[ServerSet2](./ServerSet2.md)|0|6|1252|&#9746;|
 |[MagicGroupInfo](./MagicGroupInfo.md)|0|4|868|&#9746;|
 |[objevent](./objevent.md)|0|5|744|&#9746;|
-|[ResourceInfo](./ResourceInfo.md)|0|6|676|&#9746;|
 |[eventsound](./eventsound.md)|0|4|452|&#9746;|
 |[notifyset](./notifyset.md)|0|2|356|&#9746;|
-|[ServerSet](./ServerSet.md)|0|0|4|&#9746;|
