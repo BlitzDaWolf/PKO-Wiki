@@ -10,7 +10,6 @@ The start of the binary says how big 1 section is
 |[sceneffectinfo](./sceneffectinfo.md)|0|1043|216948|
 |[NPCList](./NPCList.md)|0|363|181504|
 |[sceneobjinfo](./sceneobjinfo.md)|0|632|174436|
-|[StringSet](./StringSet.md)|0|0|101068|
 |[itemrefineinfo](./itemrefineinfo.md)|0|520|79044|
 |[shipiteminfo](./shipiteminfo.md)|0|212|73780|
 |[skilleff](./skilleff.md)|0|239|63100|
