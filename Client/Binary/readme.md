@@ -2,8 +2,8 @@
 
 |Todo|unkown|Finished|Total|
 |:---:|:---:|:---:|:---:|
-|19|2|12|33|
-|![](https://geps.dev/progress/57)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/42)|
+|18|2|13|33|
+|![](https://geps.dev/progress/54)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/39)|![](https://geps.dev/progress/45)|
 
 The binareas are in the `script/table` folder.
 
