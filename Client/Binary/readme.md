@@ -2,8 +2,8 @@
 
 |Todo|unkown|Finished|Total|
 |:---:|:---:|:---:|:---:|
-|17|2|14|33|
-|![](https://geps.dev/progress/51)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/42)|![](https://geps.dev/progress/48)|
+|15|3|15|33|
+|![](https://geps.dev/progress/45)|![](https://geps.dev/progress/9)|![](https://geps.dev/progress/45)|![](https://geps.dev/progress/54)|
 
 The binareas are in the `script/table` folder.
 
@@ -23,7 +23,7 @@ The start of the binary says how big 1 section is
 |[skilleffDetails](./skilleffDetails.md)|0|116|53364|?|
 |[musicinfo](./musicinfo.md)|0|395|44244|&#9745;|
 |[hairs](./hairs.md)|0|210|43684|&#9745;|
-|[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|&#9746;|
+|[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|?|
 |[AreaSet](./AreaSet.md)|4|253|35424|&#9745;|
 |[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
 |[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9745;|
@@ -32,7 +32,7 @@ The start of the binary says how big 1 section is
 |[shipinfo](./shipinfo.md)|0|17|8708|&#9746;|
 |[StoneInfo](./StoneInfo.md)|0|44|8628|&#9746;|
 |[minimapRegions](./minimapRegions.md)|0|41|7876|&#9746;|
-|[characterposeinfo](./characterposeinfo.md)|0|54|6700|&#9746;|
+|[characterposeinfo](./characterposeinfo.md)|0|54|6700|&#9745;|
 |[mapinfo](./mapinfo.md)|0|45|6664|&#9746;|
 |[TerrainInfo](./TerrainInfo.md)|0|52|6244|?|
 |[itemtype](./itemtype.md)|0|38|4108|&#9746;|
