@@ -1,13 +1,13 @@
-|Start|Name|Type|Description|Example|
-|---|---|---|:---:|---|
-|0|Exist|Int32|`Should be used in the game`|1|
-|4|index|Int32|`Main search index`|134|
-|8|DataName|string(72)|`Data name`|`music/sound/combat/95.wav`|
-|80|LastUseTick|Int32||0|
-|84|Enabled|Int32||1|
-|88|Data|Int32||0|
-|92|PackOffset|Int32||0|
-|96|DataSize|Int32||0|
-|100|ID|Int32||134|
-|104|LoadCnt|Int32||0|
-|108|Type|Int32||1|
+|Start|Name|Type|DataType|Description|Example|
+|---|---|---|:---:|:---:|---|
+|0|Exist|Int32|`CRawDataInfo`|Should be used in the game|1|
+|4|index|Int32|`CRawDataInfo`|Main search index|149|
+|8|DataName|string(72)|`CRawDataInfo`|Data name|`music/sound/combat/110.wav`|
+|80|LastUseTick|Int32|`CRawDataInfo`||0|
+|84|Enabled|Int32|`CRawDataInfo`|Is the data enabled|1|
+|88|Data|Int32|`CRawDataInfo`||0|
+|92|PackOffset|Int32|`CRawDataInfo`||0|
+|96|DataSize|Int32|`CRawDataInfo`||0|
+|100|ID|Int32|`CRawDataInfo`|Data ID|149|
+|104|LoadCnt|Int32|`CRawDataInfo`||0|
+|108|Type|Int32|`Music`||1|

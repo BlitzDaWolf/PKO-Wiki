@@ -1,14 +1,14 @@
-|Start|Name|Type|Description|Example|
-|---|---|---|:---:|---|
-|0|Exist|Int32|`Should be used in the game`|1|
-|4|index|Int32|`Main search index`|25|
-|8|DataName|string(72)|`Data name`|`Novice Cooking`|
-|80|LastUseTick|Int32||0|
-|84|Enabled|Int32||1|
-|88|Data|Int32||0|
-|92|PackOffset|Int32||0|
-|96|DataSize|Int32||0|
-|100|ID|Int32||25|
-|104|LoadCnt|Int32||0|
-|108|nIndex|Int32||1|
-|112|TypeID|Int32||16|
+|Start|Name|Type|DataType|Description|Example|
+|---|---|---|:---:|:---:|---|
+|0|Exist|Int32|`CRawDataInfo`|Should be used in the game|1|
+|4|index|Int32|`CRawDataInfo`|Main search index|17|
+|8|DataName|string(72)|`CRawDataInfo`|Data name|`Standard Manufacturing`|
+|80|LastUseTick|Int32|`CRawDataInfo`||0|
+|84|Enabled|Int32|`CRawDataInfo`|Is the data enabled|1|
+|88|Data|Int32|`CRawDataInfo`||0|
+|92|PackOffset|Int32|`CRawDataInfo`||0|
+|96|DataSize|Int32|`CRawDataInfo`||0|
+|100|ID|Int32|`CRawDataInfo`|Data ID|17|
+|104|LoadCnt|Int32|`CRawDataInfo`||0|
+|108|nIndex|Int32|`ElfSkill`||2|
+|112|TypeID|Int32|`ElfSkill`||13|
