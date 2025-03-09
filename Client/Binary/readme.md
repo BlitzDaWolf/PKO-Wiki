@@ -2,8 +2,8 @@
 
 |Todo|unkown|Finished|Total|
 |:---:|:---:|:---:|:---:|
-|12|3|18|33|
-|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/9)|![](https://geps.dev/progress/55)|![](https://geps.dev/progress/64)|
+|10|5|18|33|
+|![](https://geps.dev/progress/30)|![](https://geps.dev/progress/15)|![](https://geps.dev/progress/55)|![](https://geps.dev/progress/70)|
 
 The binareas are in the `script/table` folder.
 
@@ -18,14 +18,14 @@ The start of the binary says how big 1 section is
 |[NPCList](./NPCList.md)|0|363|181504|&#9745;|
 |[sceneobjinfo](./sceneobjinfo.md)|0|632|174436|&#9745;|
 |[itemrefineinfo](./itemrefineinfo.md)|0|520|79044|&#9745;|
-|[shipiteminfo](./shipiteminfo.md)|0|212|73780|&#9746;|
+|[shipiteminfo](./shipiteminfo.md)|0|212|73780|?|
 |[skilleff](./skilleff.md)|0|239|63100|&#9745;|
 |[skilleffDetails](./skilleffDetails.md)|0|116|53364|?|
 |[musicinfo](./musicinfo.md)|0|395|44244|&#9745;|
 |[hairs](./hairs.md)|0|210|43684|&#9745;|
 |[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|?|
 |[AreaSet](./AreaSet.md)|4|253|35424|&#9745;|
-|[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
+|[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|?|
 |[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9745;|
 |[itempre](./itempre.md)|0|100|10804|&#9745;|
 |[selectcha](./selectcha.md)|0|4|9780|&#9745;|
