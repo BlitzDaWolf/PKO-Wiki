@@ -1,15 +1,18 @@
-The binareas are in the `script/table` folder
 
+# Reverse engeneering progress 
 ![](https://geps.dev/progress/40)
+
+
+The binareas are in the `script/table` folder
 
 The start of the binary says how big 1 section is
 
 |Name|Skiped|EntrySize|FileSize|Done|
 |:---|---:|:---:|---:|:---:|
-|[iteminfo](./iteminfo.md)|0|7650|6640204|&#9745;|
-|[Characterinfo](./Characterinfo.md)|0|1039|1180308|&#9745;|
-|[skillinfo](./skillinfo.md)|0|484|607908|&#9745;|
-|[sceneffectinfo](./sceneffectinfo.md)|0|1043|216948|&#9745;|
+|[iteminfo](./iteminfo.md)|270|7650|6640204|&#9745;|
+|[Characterinfo](./Characterinfo.md)|486|1039|1180308|&#9745;|
+|[skillinfo](./skillinfo.md)|315|484|607908|&#9746;|
+|[sceneffectinfo](./sceneffectinfo.md)|80|1043|216948|&#9745;|
 |[NPCList](./NPCList.md)|0|363|181504|&#9745;|
 |[sceneobjinfo](./sceneobjinfo.md)|0|632|174436|&#9745;|
 |[itemrefineinfo](./itemrefineinfo.md)|0|520|79044|&#9745;|
@@ -19,7 +22,7 @@ The start of the binary says how big 1 section is
 |[musicinfo](./musicinfo.md)|0|395|44244|&#9745;|
 |[hairs](./hairs.md)|0|210|43684|&#9745;|
 |[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|&#9746;|
-|[AreaSet](./AreaSet.md)|0|253|35424|&#9745;|
+|[AreaSet](./AreaSet.md)|4|253|35424|&#9745;|
 |[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
 |[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9746;|
 |[itempre](./itempre.md)|0|100|10804|&#9746;|
