@@ -1,9 +1,11 @@
-
 # Reverse engeneering progress 
-![](https://geps.dev/progress/40)
 
+|Todo|unkown|Finished|Total|
+|---|---|---|---|
+|20|1|12|33|
+|![](https://geps.dev/progress/60)|![](https://geps.dev/progress/3)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/100)|
 
-The binareas are in the `script/table` folder
+The binareas are in the `script/table` folder.
 
 The start of the binary says how big 1 section is
 
