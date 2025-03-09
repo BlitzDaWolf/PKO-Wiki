@@ -3,7 +3,7 @@
 |Todo|unkown|Finished|Total|
 |:---:|:---:|:---:|:---:|
 |19|2|12|33|
-|![](https://geps.dev/progress/57)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/100)|
+|![](https://geps.dev/progress/57)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/42)|
 
 The binareas are in the `script/table` folder.
 
@@ -26,7 +26,7 @@ The start of the binary says how big 1 section is
 |[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|&#9746;|
 |[AreaSet](./AreaSet.md)|4|253|35424|&#9745;|
 |[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
-|[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9746;|
+|[ItemRefineEffectInfo](./ItemRefineEffectInfo.md)|0|106|17388|&#9745;|
 |[itempre](./itempre.md)|0|100|10804|&#9746;|
 |[selectcha](./selectcha.md)|0|4|9780|&#9745;|
 |[shipinfo](./shipinfo.md)|0|17|8708|&#9746;|
