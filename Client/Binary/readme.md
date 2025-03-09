@@ -1,6 +1,6 @@
 The binareas are in the `script/table` folder
 
-![](https://geps.dev/progress/31)
+![](https://geps.dev/progress/34)
 
 The start of the binary says how big 1 section is
 
@@ -17,7 +17,7 @@ The start of the binary says how big 1 section is
 |[skilleff](./skilleff.md)|0|239|63100|&#9745;|
 |[skilleffDetails](./skilleffDetails.md)|0|116|53364|?|
 |[musicinfo](./musicinfo.md)|0|395|44244|&#9745;|
-|[hairs](./hairs.md)|0|210|43684|&#9746;|
+|[hairs](./hairs.md)|0|210|43684|&#9745;|
 |[MagicSingleinfo](./MagicSingleinfo.md)|0|65|39004|&#9746;|
 |[AreaSet](./AreaSet.md)|0|253|35424|&#9746;|
 |[sceneobjretexture](./sceneobjretexture.md)|0|20|25124|&#9746;|
