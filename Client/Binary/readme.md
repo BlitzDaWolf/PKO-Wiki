@@ -2,8 +2,8 @@
 
 |Todo|unkown|Finished|Total|
 |:---:|:---:|:---:|:---:|
-|13|3|17|33|
-|![](https://geps.dev/progress/39)|![](https://geps.dev/progress/9)|![](https://geps.dev/progress/52)|![](https://geps.dev/progress/61)|
+|12|3|18|33|
+|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/9)|![](https://geps.dev/progress/55)|![](https://geps.dev/progress/64)|
 
 The binareas are in the `script/table` folder.
 
@@ -35,7 +35,7 @@ The start of the binary says how big 1 section is
 |[characterposeinfo](./characterposeinfo.md)|0|54|6700|&#9745;|
 |[mapinfo](./mapinfo.md)|0|45|6664|&#9745;|
 |[TerrainInfo](./TerrainInfo.md)|0|52|6244|?|
-|[itemtype](./itemtype.md)|0|38|4108|&#9746;|
+|[itemtype](./itemtype.md)|0|38|4108|&#9745;|
 |[ElfSkillInfo](./ElfSkillInfo.md)|0|27|3136|&#9746;|
 |[chaticons](./chaticons.md)|0|9|1912|&#9746;|
 |[shadeinfo](./shadeinfo.md)|0|11|1896|&#9746;|
