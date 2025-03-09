@@ -1,9 +1,11 @@
 The binareas are in the `script/table` folder
 
+![](https://geps.dev/progress/31)
+
 The start of the binary says how big 1 section is
 
 |Name|Skiped|EntrySize|FileSize|Done|
-|:---|---:|---:|---:|:---:|
+|:---|---:|:---:|---:|:---:|
 |[iteminfo](./iteminfo.md)|0|7650|6640204|&#9745;|
 |[Characterinfo](./Characterinfo.md)|0|1039|1180308|&#9745;|
 |[skillinfo](./skillinfo.md)|0|484|607908|&#9745;|
