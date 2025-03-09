@@ -10,7 +10,7 @@
 |96|DataSize|Int32|`CRawDataInfo`||0|
 |100|ID|Int32|`CRawDataInfo`|Data ID|4|
 |104|LoadCnt|Int32|`CRawDataInfo`||0|
-|108|Name|string(16)|`MapInfo`||`Lone Towerp3`|
+|108|Name|string(16)|`MapInfo`||`Lone Towerp3`|
 |124|initX|Int32|`MapInfo`||50|
 |128|initY|Int32|`MapInfo`||50|
 |132|LightDir|Single[] (3)|`MapInfo`||`1`, `1`, `-1`|
