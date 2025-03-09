@@ -11,7 +11,7 @@ The start of the binary says how big 1 section is
 |:---|---:|:---:|---:|:---:|
 |[iteminfo](./iteminfo.md)|270|7650|6640204|&#9745;|
 |[Characterinfo](./Characterinfo.md)|486|1039|1180308|&#9745;|
-|[skillinfo](./skillinfo.md)|315|484|607908|&#9746;|
+|[skillinfo](./skillinfo.md)|315|484|607908|&#9745;|
 |[sceneffectinfo](./sceneffectinfo.md)|80|1043|216948|&#9745;|
 |[NPCList](./NPCList.md)|0|363|181504|&#9745;|
 |[sceneobjinfo](./sceneobjinfo.md)|0|632|174436|&#9745;|
