@@ -21,6 +21,13 @@ Example.
 Strigns are made from byte arrays.
 Strings have an `\0` ending except said otherwise.
 
+||Client|Server|P|T|A|
+|---|:---:|:---:|:---:|:---:|:---:|
+|Amount|172|237|58|23|11|
+|Done|4|0|0|0|0|
+|Percantage|![](https://geps.dev/progress/2)|0|0|0|0|
+
+
 ## Commands
 
 ### Client Server

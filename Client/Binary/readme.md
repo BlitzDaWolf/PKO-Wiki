@@ -1,9 +1,9 @@
 # Reverse engeneering progress 
 
 |Todo|unkown|Finished|Total|
-|---|---|---|---|
-|20|1|12|33|
-|![](https://geps.dev/progress/60)|![](https://geps.dev/progress/3)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/100)|
+|:---:|:---:|:---:|:---:|
+|19|2|12|33|
+|![](https://geps.dev/progress/57)|![](https://geps.dev/progress/6)|![](https://geps.dev/progress/36)|![](https://geps.dev/progress/100)|
 
 The binareas are in the `script/table` folder.
 
@@ -34,7 +34,7 @@ The start of the binary says how big 1 section is
 |[minimapRegions](./minimapRegions.md)|0|41|7876|&#9746;|
 |[characterposeinfo](./characterposeinfo.md)|0|54|6700|&#9746;|
 |[mapinfo](./mapinfo.md)|0|45|6664|&#9746;|
-|[TerrainInfo](./TerrainInfo.md)|0|52|6244|&#9746;|
+|[TerrainInfo](./TerrainInfo.md)|0|52|6244|?|
 |[itemtype](./itemtype.md)|0|38|4108|&#9746;|
 |[ElfSkillInfo](./ElfSkillInfo.md)|0|27|3136|&#9746;|
 |[chaticons](./chaticons.md)|0|9|1912|&#9746;|
