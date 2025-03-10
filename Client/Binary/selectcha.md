@@ -1,7 +1,7 @@
 |Start|Name|Type|DataType|Description|Example|
 |---|---|---|:---:|:---:|---|
-|0|Exist|Int32|`CRawDataInfo`|Should be used in the game|1|
-|4|index|Int32|`CRawDataInfo`|Main search index|4|
+|0|Exist|Int32|`Record`|Should be used in the game|1|
+|4|index|Int32|`Record`|Main search index|4|
 |8|DataName|string(72)|`CRawDataInfo`|Data name|`Ami`|
 |80|LastUseTick|Int32|`CRawDataInfo`||0|
 |84|Enabled|Int32|`CRawDataInfo`|Is the data enabled|1|
@@ -22,4 +22,5 @@
 |124|BodyNumber|Int32|`ChaCreate`||1|
 |128|HandNumber|Int32|`ChaCreate`||1|
 |132|FootNumber|Int32|`ChaCreate`||1|
-|136|Description|string(1024)|`ChaCreate`||``|
+|136|profession|Int32|`ChaCreate`||-842150451|
+|140|Description|string(1024)|`ChaCreate`||``|
