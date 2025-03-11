@@ -45,7 +45,7 @@ Each tile has the following data compresed structure.
 |Height|byte|
 |Region|short|
 |IsLand|Byte|
-|Block|byte[`(NW), (NE), (SE), (SW)`]|
+|Block|byte[`(NW), (NE), (SW), (SE)`]|
 
 The Decompresion is as folwed
 
