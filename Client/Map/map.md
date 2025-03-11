@@ -16,6 +16,12 @@
 
 ## Offset
 
+Using tile offset.
+```
+SectionOffset = (X / XTiles) * YSections + (y / YTiles);
+Section.TileOffset = (Y % YTiles) * XTiles + (X % XTiles)
+```
+
 The offsets are right after the [Header](#Header).
 The size of wich is from the Sections.
 
@@ -23,18 +29,6 @@ The size of wich is from the Sections.
 If a offset = 0 that means there is no data for that section and should be skipped
 
 Otherwise you can jump to that file offset.
-
-The X Y reading goes as followed
-
-```
-
-0 -  -  > Y
-|[1][1][ ]
-|[ ][ ][1]
-ˇ[1][ ][ ]
-X
-
-```
 
 ## Section
 
@@ -51,7 +45,7 @@ Each tile has the following data compresed structure.
 |Height|byte|
 |Region|short|
 |IsLand|Byte|
-|Block|byte[(SE), (NE), (SW), (NW)]|
+|Block|byte[`(NW), (NE), (SE), (SW)`]|
 
 The Decompresion is as folwed
 
