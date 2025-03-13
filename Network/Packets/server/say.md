@@ -1,7 +1,0 @@
-# Say
-
-## Structure
-
-|Name|Type|
-|----|----|
-|||
