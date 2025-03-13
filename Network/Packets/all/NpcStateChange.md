@@ -2,5 +2,5 @@
 
 |Name|Type|Description|
 |---|---|---|
-|NpcID|UInt32|
-|State|Byte|
+|NpcID|UInt32||
+|State|Byte||

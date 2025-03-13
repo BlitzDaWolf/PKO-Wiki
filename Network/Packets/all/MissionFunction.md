@@ -2,5 +2,5 @@
 
 |Name|Type|Description|
 |---|---|---|
-|Option|String|
-|State|Byte|
+|Option|String||
+|State|Byte||
